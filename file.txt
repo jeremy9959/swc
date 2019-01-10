@@ -1,1 +1,5 @@
 hello
+new line
+third line
+fourth line
+added after git add
